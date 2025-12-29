@@ -21,49 +21,43 @@ KolaExplore is a comprehensive booking platform that enables users to book fligh
    - Reusable UI components
    - Accessibility guidelines
 
-3. **[FIGMA_IMPLEMENTATION_GUIDE.md](./FIGMA_IMPLEMENTATION_GUIDE.md)**
-   - Step-by-step Figma setup instructions
-   - Component library structure
-   - Prototype setup
-   - Developer handoff guidelines
-
 ### Platform-Specific Documentation
 
-4. **[WEB_PLATFORM_DESIGN.md](./WEB_PLATFORM_DESIGN.md)**
+3. **[WEB_PLATFORM_DESIGN.md](./WEB_PLATFORM_DESIGN.md)**
    - Web platform information architecture
    - Service discovery and search
    - Booking flows for all services
    - Shopping cart and checkout
    - Booking management screens
 
-5. **[MOBILE_APP_DESIGN.md](./MOBILE_APP_DESIGN.md)**
+4. **[MOBILE_APP_DESIGN.md](./MOBILE_APP_DESIGN.md)**
    - Mobile app architecture
    - End-to-end user flows
    - Booking journeys
    - Unified cart experience
    - Mobile-specific components
 
-6. **[MERCHANT_DASHBOARD_DESIGN.md](./MERCHANT_DASHBOARD_DESIGN.md)**
+5. **[MERCHANT_DASHBOARD_DESIGN.md](./MERCHANT_DASHBOARD_DESIGN.md)**
    - Merchant information architecture
    - Service creation and management
    - Booking and availability management
    - Customer overview screens
    - Role-based access
 
-7. **[ADMIN_DASHBOARD_DESIGN.md](./ADMIN_DASHBOARD_DESIGN.md)**
+6. **[ADMIN_DASHBOARD_DESIGN.md](./ADMIN_DASHBOARD_DESIGN.md)**
    - Admin system architecture
    - User and merchant management
    - Booking oversight
    - Platform-level controls
    - System configuration
 
-8. **[USER_FLOWS.md](./USER_FLOWS.md)**
+7. **[USER_FLOWS.md](./USER_FLOWS.md)**
    - Complete user flow diagrams
    - Information architecture
    - Customer, merchant, and admin flows
    - Error and edge case flows
 
-9. **[STATES_AND_FEEDBACK.md](./STATES_AND_FEEDBACK.md)**
+8. **[STATES_AND_FEEDBACK.md](./STATES_AND_FEEDBACK.md)**
    - Comprehensive empty states descriptions
    - Error state handling and recovery
    - Loading states and progress indicators
@@ -73,7 +67,7 @@ KolaExplore is a comprehensive booking platform that enables users to book fligh
    - Haptic feedback (mobile)
    - Gesture interactions
 
-10. **[DETAILED_BOOKING_FLOWS.md](./DETAILED_BOOKING_FLOWS.md)**
+9. **[DETAILED_BOOKING_FLOWS.md](./DETAILED_BOOKING_FLOWS.md)**
    - Complete step-by-step booking flow specifications
    - Detailed screen components for each step
    - All service types with comprehensive flows:
@@ -88,7 +82,7 @@ KolaExplore is a comprehensive booking platform that enables users to book fligh
 
 ### Visual References
 
-11. **[design-reference.html](./design-reference.html)**
+10. **[design-reference.html](./design-reference.html)**
    - Interactive HTML/CSS reference
    - Visual design system preview
    - Component examples
