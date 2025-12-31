@@ -1,4 +1,4 @@
-# KolaExplore - Complete UI/UX Design Package
+# KaloExplore - Complete UI/UX Design Package
 
 This repository contains the complete UI/UX design specifications and documentation for the KolaExplore multi-service booking platform.
 
